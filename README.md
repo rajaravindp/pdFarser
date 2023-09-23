@@ -14,5 +14,5 @@ or <br>
 and <br>
 <br> 
 Verfiy successful installation using the following command: <br>
-pip show PyPDF2
+- pip show PyPDF2
 
