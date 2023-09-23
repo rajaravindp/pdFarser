@@ -11,8 +11,8 @@ or <br>
 - Run following command in Jupyter Env: <br>
   !pip install PyPDF2 <br> 
 <br>
-and <br>
+& <br>
 <br> 
 Verfiy successful installation using the following command: <br>
-- pip show PyPDF2
+pip show PyPDF2
 
